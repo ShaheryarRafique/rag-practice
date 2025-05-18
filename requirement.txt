@@ -5,3 +5,5 @@ faiss-cpu
 pandas
 langchain-openai
 chromadb
+llama-index 
+langchain-ollama
